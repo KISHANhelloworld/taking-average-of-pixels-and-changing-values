@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 # In[189]:
-img=cv2.imread('lenna.png')
+img=cv2.imread('lenna.png')#ADD YOUR IMAGE
 # In[190]: img=cv2.cvtColor(img,cv2.COLOR_BGR2RGB) # In[191]:
 plt.imshow(img)
 # In[192]:
